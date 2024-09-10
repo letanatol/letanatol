@@ -47,3 +47,18 @@
 <a href="https://www.codewars.com/" target="_blank">
   <img alt="codewars" width="40px" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"/>
 </a>
+
+### 💻 My Projects
+
+
+ Projects         |   Deploy                                                | Code repo
+------------------|:--------------------------------------------------------|:-----------------------
+ Ecommerce App| [Deploy](https://greens-shop.netlify.app/)    | [Repo](https://github.com/Dewlar/green-shop)
+ Fun Chat | [Deploy]()    | [Repo]()
+ English Puzzle   | [Deploy]()    | [Repo]()
+ Async Race | [Deploy]()    | [Repo]()
+ 
+ 
+  - [Tasks](), completed during the RS School JS/FE course Stage 1
+  - [Tasks](), completed during the RS School JS/FE course Stage 0
+
