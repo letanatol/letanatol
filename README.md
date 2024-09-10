@@ -1,5 +1,4 @@
-## Hi there 👋
-## I'm Tanya!
+## Hi there 👋, I'm Tanya!
 
 <!--
 **letanatol/letanatol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./images/banner.png" width="1000" height="280" alt="banner" >
+<img src="./images/banner.png" width="1000" height="260" alt="banner" >
 
 ### About myself
 
@@ -29,4 +28,5 @@ Here are some ideas to get you started:
 
 ## 🎓 I have completed __Angular Course__ The Rolling Scopes School | <a href="" target="_blank">Certificate</a>
 
-## 🎓 I have completed __JavaScript / Front-end Course__ The Rolling Scopes School | <a href="https://app.rs.school/certificate/b0sm1v47" target="_blank">Certificate</a><a href="https://app.rs.school/certificate/rsmb2n12" target="_blank">Certificate</a>
+## 🎓 I have completed __JavaScript / Front-end Course__ The Rolling Scopes School | 
+## <a href="https://app.rs.school/certificate/b0sm1v47" target="_blank">Certificate</a> | <a href="https://app.rs.school/certificate/rsmb2n12" target="_blank">Certificate</a>
