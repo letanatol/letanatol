@@ -1,4 +1,4 @@
-<img src="./images/banner.png" width="1000" height="200" alt="banner" >
+## Hi there 👋, I'm Tanya
 
 <div style="text-align: center;">
  <a href="https://t.me/letanatol" target="_blank">
@@ -15,9 +15,9 @@
  </a>
 </div>
 
-*I am a meticulous and detail-driven Junior Front-end Developer, always striving for results and open to expanding my knowledge.
+_I am a meticulous and detail-driven Junior Front-end Developer, always striving for results and open to expanding my knowledge.
 I am eager to contribute to innovative projects while continuously refining my skills.
-My goal is to apply my expertise in JavaScript and Angular to deliver impactful solutions and grow professionally.*
+My goal is to apply my expertise in JavaScript and Angular to deliver impactful solutions and grow professionally._
 
 ### Certifications 🎓
 
@@ -27,42 +27,42 @@ My goal is to apply my expertise in JavaScript and Angular to deliver impactful 
 
 - <a href="https://app.rs.school/certificate/rsmb2n12" target="_blank">JS/FE PRE-SCHOOL 2023Q2 (JAVASCRIPT) The Rolling Scopes School</a>
 
-____
+---
 
 ### Skills and tools :pinching_hand:
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img alt="TypeScript" width="30px" src="https://github.com/remojansen/logo.ts/blob/master/ts.png?raw=true"/>
-</a>
-<a href="https://angular.dev/" target="_blank">
-  <img alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img alt="Git" width="30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
-</a>
+<p>
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+
 <a href="https://www.codewars.com/users/letanatol/badges/large" target="_blank">
   <img alt="codewars" width="300px" src="https://www.codewars.com/users/letanatol/badges/large"/>
 </a>
 
-_____________
+---
 
 ### My Pet Projects :feet:
 
- Projects         |   Deploy                                                | Code repo
-------------------|:--------------------------------------------------------|:-----------------------
- Ecommerce App| [Deploy](https://greens-shop.netlify.app/)    | [Repo](https://github.com/Dewlar/green-shop)
- Fun Chat | [Deploy]()    | [Repo]()
- English Puzzle   | [Deploy]()    | [Repo]()
- Async Race | [Deploy]()    | [Repo]()
+| Projects       | Deploy                                     | Code repo                                    |
+| -------------- | :----------------------------------------- | :------------------------------------------- |
+| Ecommerce App  | [Deploy](https://greens-shop.netlify.app/) | [Repo](https://github.com/Dewlar/green-shop) |
+| Fun Chat       | [Deploy]()                                 | [Repo]()                                     |
+| English Puzzle | [Deploy]()                                 | [Repo]()                                     |
+| Async Race     | [Deploy]()                                 | [Repo]()                                     |
 
 - [Tasks](), completed during the RS School JS/FE course Stage 1
 - [Tasks](), completed during the RS School JS/FE course Stage 0
