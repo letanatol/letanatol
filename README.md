@@ -1,23 +1,8 @@
 ## Hi there 👋, I'm Tanya
 
-<div style="text-align: center;">
- <a href="https://t.me/letanatol" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
- </a>
- <a href="mailto:letanatol@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
- </a>
- <a href="https://discordapp.com/users/1015731439028940861" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-0000CD?style=for-the-badge&logo=Codewars&logoColor=white" alt="Discord"/>
- </a>
- <a href="https://www.linkedin.com/in/tatsiana-kudrautsava/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=Codewars&logoColor=white" alt="LinkedIn"/>
- </a>
-</div>
-
-_I am a meticulous and detail-driven Junior Front-end Developer, always striving for results and open to expanding my knowledge.
+*I am a meticulous and detail-driven Junior Front-end Developer, always striving for results and open to expanding my knowledge.
 I am eager to contribute to innovative projects while continuously refining my skills.
-My goal is to apply my expertise in JavaScript and Angular to deliver impactful solutions and grow professionally._
+My goal is to apply my expertise in JavaScript and Angular to deliver impactful solutions and grow professionally.*
 
 ### Certifications 🎓
 
@@ -27,7 +12,21 @@ My goal is to apply my expertise in JavaScript and Angular to deliver impactful 
 
 - <a href="https://app.rs.school/certificate/rsmb2n12" target="_blank">JS/FE PRE-SCHOOL 2023Q2 (JAVASCRIPT) The Rolling Scopes School</a>
 
----
+### Where to find me 📬
+
+<div>
+ <a href="https://t.me/letanatol" target="_blank">
+  <img width="90px" height="25px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+ </a>
+ <a href="mailto:letanatol@gmail.com">
+  <img width="80px" height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
+ </a>
+ <a href="https://discordapp.com/users/1015731439028940861" target="_blank">
+  <img width="90px" height="25px" src="https://img.shields.io/badge/Discord-0000CD?style=for-the-badge&logo=Codewars&logoColor=white" alt="Discord"/>
+ </a>
+  <a href="https://www.linkedin.com/in/tatsiana-kudrautsava" target="_blank">
+  <img width="90px" height="25px" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
 ### Skills and tools :pinching_hand:
 
