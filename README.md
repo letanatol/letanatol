@@ -167,10 +167,8 @@ My goal is to apply my expertise in JavaScript and Angular to deliver impactful 
 
 ### My Pet Projects :feet:
 
-| Projects       | Deploy                                     | Code repo                                    |
-| -------------- | :----------------------------------------- | :------------------------------------------- |
-| Ecommerce App  | [Deploy](https://greens-shop.netlify.app/) | [Repo](https://github.com/Dewlar/green-shop) |
-| Shelter        | [Deploy](https://letanatol.github.io/shelter/shelter/pages/main/)                                 | [Repo](https://github.com/letanatol/shelter/tree/main)                                     |
-
-- [Tasks](), completed during the RS School JS/FE course Stage 1
-- [Tasks](), completed during the RS School JS/FE course Stage 0
+| Projects| Deploy | Code repo | Task Requirements Description |
+| -------------- | :------------ | :----------- | :----------- |
+| Ecommerce App | [Deploy](https://greens-shop.netlify.app/) | [Repo](https://github.com/Dewlar/green-shop) | [Requirements]() |
+| Shelter | [Deploy](https://letanatol.github.io/shelter/shelter/pages/main/) | [Repo](https://github.com/letanatol/shelter/tree/main) | [Requirements]() |
+| Audio-player | [Deploy](https://letanatol.github.io/pet-projects_R_S_School_stage_0/audio-player/src/) | [Repo]() | [Requirements](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-2.md) |
