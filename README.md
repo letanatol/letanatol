@@ -170,5 +170,8 @@ My goal is to apply my expertise in JavaScript and Angular to deliver impactful 
 | Projects| Deploy | Code repo | Task Requirements Description |
 | -------------- | :------------ | :----------- | :----------- |
 | Ecommerce App | [Deploy](https://greens-shop.netlify.app/) | [Repo](https://github.com/Dewlar/green-shop) | [Requirements]() |
-| Shelter | [Deploy](https://letanatol.github.io/shelter/shelter/pages/main/) | [Repo](https://github.com/letanatol/shelter/tree/main) | [Requirements]() |
-| Audio-player | [Deploy](https://letanatol.github.io/pet-projects_R_S_School_stage_0/audio-player/src/) | [Repo]() | [Requirements](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-2.md) |
+| Shelter | [Deploy](https://letanatol.github.io/shelter/shelter/pages/main/) | [Repo](https://github.com/letanatol/shelter/tree/main) | [Requirements](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter.md) |
+| Library | [Deploy](https://letanatol.github.io/pet-projects_R_S_School_stage_0/library/) | [Repo](https://github.com/letanatol/pet-projects_R_S_School_stage_0/tree/library) | [Requirements](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/library/library.md) |
+| Memory game | [Deploy](https://letanatol.github.io/pet-projects_R_S_School_stage_0/memory-game/) | [Repo](https://github.com/letanatol/pet-projects_R_S_School_stage_0/tree/memory-game) | [Requirements](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-8.md) |
+| Image galery | [Deploy](https://letanatol.github.io/pet-projects_R_S_School_stage_0/image-galery/src/) | [Repo](https://github.com/letanatol/pet-projects_R_S_School_stage_0/tree/image-galery) | [Requirements](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-5.md) |
+| Audio-player | [Deploy](https://letanatol.github.io/pet-projects_R_S_School_stage_0/audio-player/src/) | [Repo](https://github.com/letanatol/pet-projects_R_S_School_stage_0/tree/audio-player) | [Requirements](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js30%23/js30-2.md) |
